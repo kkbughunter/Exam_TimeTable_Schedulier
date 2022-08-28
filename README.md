@@ -66,4 +66,5 @@ constraints. The ultimate aim of our project is to minimize the whole cost of re
 2.Irayanbu<br>
 3.Nithiyanantham.M<br>
 
-                                                       * Thank You *
+              gcc main.c -o Exam_sec
+              ./Exam_sec
