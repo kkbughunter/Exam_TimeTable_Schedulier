@@ -1,0 +1,3 @@
+course1,course2,course3, ..... , courseN.
+studentcount1,studentcount2,studentcount3,......., studentcountN.
+UEE2276,UCE2201,UHS2241,UMA2276,UCE2202,ACY2276,UEC2201,UIT2201,UCE2202, 

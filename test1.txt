@@ -1,0 +1,9 @@
+Dept,sub1,sub2,..,subn,student_count -> eg: as23,aw45,ad65,vf32,50 
+room and staff count first and last mid we want to give all info.
+CSE,DBMS,Ds,C,Cyber sec,python,Maths,50
+IT,python,Datastr,BEEE,chem,phy,Maths,50
+ECE,BEEE,python,circuit,Maths,meas,phy,50
+BME,circuit,Maths,medical,phy,python,BEEE,50
+EEE,chem,python,Maths,phy,Current,Energy,50
+10,LH-1,LH-2,LH-3,LH-4,LH-5,LH-6,LH-7,LH-8,LH-9,LH-10,10
+10,ram,som,sam,karthik,nithi,anbu,iray,rahul,ramesh,jon,10
