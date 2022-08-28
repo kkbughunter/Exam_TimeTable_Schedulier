@@ -38,7 +38,6 @@ OF CLASSES.
 - Multiple aspects of same data.
 - String initialization.
 - Application of structure copy.
-- Alternatives to “magic numbers” .
 - Proper use of header files.
 
 
