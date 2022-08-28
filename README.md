@@ -8,7 +8,8 @@ is the complexity of satisfying the constraints in examination timetable which i
 that satisfying the hard and soft constraints.
 
 
-### Problem Statement : Exam Timetable in a University
+### Problem Statement : 
+Exam Timetable in a University<br>
  TO CREATE AN APPROPRIATE TIME TABLE FOR THE
 UNVIERSITY EXAMS BASED ON THE NUMBER OF STUDENTS
 WRITING THE EXAMS AND DEPENDING ON THE AVAILABILITY
