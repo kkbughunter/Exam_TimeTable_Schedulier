@@ -23,7 +23,9 @@ OF CLASSES.
 #### Terminal input
 ![output](https://user-images.githubusercontent.com/91019132/187713811-57f8f1f6-64bf-4552-a93b-8b4103a4d8ad.png) 
 #### File input
-![ip1](https://user-images.githubusercontent.com/91019132/187715928-489952dd-ff67-4baf-bbe2-a26b130fd2aa.png)![ip2](https://user-images.githubusercontent.com/91019132/187716170-833e28bc-5633-4c02-9178-90838b1276ce.png)
+![ip1](https://user-images.githubusercontent.com/91019132/187718193-1dd4915c-7542-4e2d-8602-746bdf51a9bf.png)![ip2](https://user-images.githubusercontent.com/91019132/187718216-6c49f534-6c65-43e9-8672-45d003c22b74.png)
+
+
 
 
 
@@ -33,7 +35,9 @@ OF CLASSES.
  - Main Timetable
  - Student seating Timetable.
  - Invigilator Timetable.<br>
-![output2](https://user-images.githubusercontent.com/91019132/187715087-d4602f49-76dd-4a4f-bad9-c9b1a2b29d5a.png)
+![output](https://user-images.githubusercontent.com/91019132/187717807-5859705f-5308-4d59-aeaa-d6ee8906c85c.png)
+
+
 
 ### Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/91019132/187066435-1408d6c3-d30d-465d-a020-36dd4ff2a7f4.png)
