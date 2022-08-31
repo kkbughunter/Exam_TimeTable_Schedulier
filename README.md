@@ -19,13 +19,21 @@ OF CLASSES.
 ### Input:
 - File1 containing stundents , staff , room and course details.
 - File2 containing arrear course details.
-- Date,Time.
+- Date,Time.<br>
+#### Terminal input
+![output](https://user-images.githubusercontent.com/91019132/187713811-57f8f1f6-64bf-4552-a93b-8b4103a4d8ad.png) 
+#### File input
+![ip1](https://user-images.githubusercontent.com/91019132/187715928-489952dd-ff67-4baf-bbe2-a26b130fd2aa.png)![ip2](https://user-images.githubusercontent.com/91019132/187716170-833e28bc-5633-4c02-9178-90838b1276ce.png)
+
+
+
 ### Output:
 - output have store in File as txt format 
  - Arrear Timetable.
  - Main Timetable
  - Student seating Timetable.
- - Invigilator Timetable.
+ - Invigilator Timetable.<br>
+![output2](https://user-images.githubusercontent.com/91019132/187715087-d4602f49-76dd-4a4f-bad9-c9b1a2b29d5a.png)
 
 ### Architectural Diagram:
 ![image](https://user-images.githubusercontent.com/91019132/187066435-1408d6c3-d30d-465d-a020-36dd4ff2a7f4.png)
